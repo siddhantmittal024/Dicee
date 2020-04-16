@@ -39,16 +39,18 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
 @media(max-width: 770px)
 {
   h1{
-    font-size: 4rem;
+    font-size: 2rem;
   }
   img{
-    width: 50%;
+    width: 40%;
   }
 }
+
 #footer
 {
-  padding-bottom: 150px;
+  padding-top: 150px;
 }
