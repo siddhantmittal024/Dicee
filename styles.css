@@ -48,3 +48,7 @@ footer {
     width: 50%;
   }
 }
+#footer
+{
+  padding-bottom: 150px;
+}
